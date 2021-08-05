@@ -1,6 +1,6 @@
 # Latex
 *.aux
-*.backup
+*backup*
 *.bak
 *.bbl
 *.bcf

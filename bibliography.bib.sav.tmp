@@ -7606,11 +7606,15 @@
   timestamp = {2017.11.29},
 }
 
-@Unpublished{Mendia:2022,
+@Article{Mendia:2022,
   author    = {Mendia, Jon Ander},
-  note      = {Ms., Cornell University},
+  journal   = {Journal of Semantics},
   title     = {Structural effects on implicature calculation},
   year      = {2022},
+  number    = {3},
+  pages     = {409--442},
+  volume    = {39},
+  doi       = {https://doi.org/10.1093/jos/ffac004},
   owner     = {jon-ander},
   timestamp = {2015.06.10},
 }
@@ -12932,11 +12936,3 @@
 @Article{Grice:1957,
   author  = {Grice, Paul H.},
   journal = {The Philosophical Review},
-  title   = {Meaning},
-  year    = {1957},
-  number  = {3},
-  pages   = {377--388},
-  volume  = {66},
-}
-
-@
